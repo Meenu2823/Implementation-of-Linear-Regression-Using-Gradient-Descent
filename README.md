@@ -69,20 +69,15 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-
-Data Information and value of X
+### Data Information and value of X
 ![image](https://github.com/user-attachments/assets/286e8227-69a9-4c23-8773-438811d5e8b3)
-
-Value of y
+### Value of y
 ![image](https://github.com/user-attachments/assets/35b1886b-76e9-4a5f-8305-ec6162330224)
-
-Value of X1_scaled
+### Value of X1_scaled
 ![image](https://github.com/user-attachments/assets/4bc259fc-37f7-4ebc-a45d-8f8e343532c2)
-
-Value of y1_scaled
+### Value of y1_scaled
 ![image](https://github.com/user-attachments/assets/6c6faf6d-8687-4410-8815-10c6bf6cebc6)
-
-Predicted Value
+### Predicted Value
 ![image](https://github.com/user-attachments/assets/97405b09-0374-47a0-86e5-67a286579a38)
 
 ## Result:
